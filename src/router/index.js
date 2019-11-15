@@ -28,6 +28,10 @@ const routes = [
           import(/* webpackChunkName: "homeOverviews" */ '../pages/OverView/OverView.vue')
       }
     ]
+  },
+  {
+    path: '/index.html',
+    redirect: '/'
   }
   // {
   //   path: '/about',
