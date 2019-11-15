@@ -1,0 +1,78 @@
+{
+  "navmenu": [{
+    "itemName": "首 页",
+    "index": "1",
+    "url": "javascript:;",
+    "children": []
+  }, {
+    "itemName": "学院概况",
+    "index": "2",
+    "url": "javascript:;",
+    "children": [{
+      "itemName": "学校简介",
+      "index": "2-1",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "现任领导",
+      "index": "2-2",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "组织机构",
+      "index": "2-3",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "校园掠影",
+      "index": "2-4",
+      "url": "https://baidu.com",
+      "children": []
+    }]
+  }, {
+    "itemName": "新闻中心",
+    "index": "3",
+    "url": "javascript:;",
+    "children": [{
+      "itemName": "通知公告",
+      "index": "3-1",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "学校要闻",
+      "index": "3-2",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "部门动态",
+      "index": "3-3",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "教育新闻",
+      "index": "3-4",
+      "url": "https://baidu.com",
+      "children": []
+    }]
+  }, {
+    "itemName": "招生就业",
+    "index": "4",
+    "url": "javascript:;",
+    "children": [{
+      "itemName": "招生信息",
+      "index": "4-1",
+      "url": "https://baidu.com",
+      "children": []
+    }, {
+      "itemName": "就业信息",
+      "index": "4-2",
+      "url": "https://baidu.com",
+      "children": []
+    }]
+  }, {
+    "itemName": "OA系统",
+    "index": "5",
+    "url": "javascript:;",
+    "children": []
+  }]
+}
